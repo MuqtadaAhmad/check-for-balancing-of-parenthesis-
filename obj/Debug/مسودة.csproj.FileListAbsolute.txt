@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Desktop\مسودة\bin\Debug\مسودة.exe.config
+C:\Users\LENOVO\OneDrive\Desktop\مسودة\bin\Debug\مسودة.exe
+C:\Users\LENOVO\OneDrive\Desktop\مسودة\bin\Debug\مسودة.pdb
+C:\Users\LENOVO\OneDrive\Desktop\مسودة\obj\Debug\مسودة.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\مسودة\obj\Debug\مسودة.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\مسودة\obj\Debug\مسودة.exe
+C:\Users\LENOVO\OneDrive\Desktop\مسودة\obj\Debug\مسودة.pdb

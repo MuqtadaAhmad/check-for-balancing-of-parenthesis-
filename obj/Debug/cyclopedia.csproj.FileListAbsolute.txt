@@ -1,0 +1,18 @@
+C:\Users\LENOVO\OneDrive\Desktop\مسودة\bin\Debug\مسودة.exe.config
+C:\Users\LENOVO\OneDrive\Desktop\مسودة\bin\Debug\مسودة.exe
+C:\Users\LENOVO\OneDrive\Desktop\مسودة\bin\Debug\مسودة.pdb
+C:\Users\LENOVO\OneDrive\Desktop\مسودة\obj\Debug\cyclopedia.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\مسودة\obj\Debug\cyclopedia.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\مسودة\obj\Debug\مسودة.exe
+C:\Users\LENOVO\OneDrive\Desktop\مسودة\obj\Debug\مسودة.pdb
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\bin\Debug\مسودة.exe.config
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\bin\Debug\مسودة.exe
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\bin\Debug\مسودة.pdb
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\obj\Debug\cyclopedia.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\obj\Debug\cyclopedia.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\obj\Debug\مسودة.exe
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\obj\Debug\مسودة.pdb
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\stack for parenthesis\obj\Debug\cyclopedia.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\stack for parenthesis\obj\Debug\cyclopedia.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\stack for parenthesis\obj\Debug\مسودة.exe
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\stack for parenthesis\obj\Debug\مسودة.pdb
